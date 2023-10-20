@@ -22,3 +22,8 @@ Expand He's algorithm (continuous price theory)
 If there is a trading pool containing TokenA, TokenB, and TokenC, it is possible to trade any trading pair among these three Tokens.
 There is a problem in this situation. When trading TokenA and TokenB, the other two trading pairs TokenA=>TokenC and TokenB=>TokenC do not trade at all, but the prices change (one goes up and the other goes down). Because TokenA and TokenB in the corresponding pool have changed. 
 This approach avoids arbitrage and MEV.
+
+
+
+可以参看中文文档：
+https://learnblockchain.cn/article/6709
